@@ -8,7 +8,15 @@ On this page we have resources to support the welfare of both [children](#childr
 
 ## Children
 
-If you know of a child who is at risk of harm, or if you are a child at risk of harm, then please let someone know. You can either contact the club welfare officer at <a href="mailto:welfare@barmingyouth.co.uk">welfare@barmingyouth.co.uk</a> or one of the following organisations:
+If you know of a child who is at risk of harm, or if you are a child
+at risk of harm, then please let someone know. You can contact a club
+welfare officer by email:
+
+* Email: [Vicki](mailto:welfare@barmingyouth.co.uk)
+* Email: [Anna](mailto:welfare2@barmingyouth.co.uk)
+* Email: [Mark](mailto:mark@switchcafe.co.uk)
+
+Alternatively you might want to contact one of the organisations listed below.
 
 ### NSPCC
 
@@ -66,6 +74,17 @@ Switch Café is a local organisation in Maidstone that supports our children fro
 
 
 ## Adults
+
+### Our own welfare team
+
+We have a welfare team in the club and you can contact any of them if
+you have concerns about your own welfare or the welfare of another
+adult in the club.
+
+* Email: [Vicki](mailto:welfare@barmingyouth.co.uk)
+* Email: [Anna](mailto:welfare2@barmingyouth.co.uk)
+* Email: [Mark](mailto:mark@switchcafe.co.uk)
+
 
 ### Release the pressure
 
