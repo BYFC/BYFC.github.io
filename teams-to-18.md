@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teams 2020/21 &mdash; secondary school age
+title: Teams 2020-21 &mdash; secondary school age
 ---
 
 <article id="main">
