@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Teams 2020-21 &mdash; secondary school age
+title: Teams &mdash; secondary school age
 ---
 
 <article id="main">
     <header class="special container">
         <span class="icon fa-futbol-o"></span>
-        <h2>Teams &mdash; secondary school age</h2>
+        <h2>Teams &mdash; secondary school age 2020/21</h2>
     </header>
     <section class="wrapper style4 container">
         <ul class="posts">

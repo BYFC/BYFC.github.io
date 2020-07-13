@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Adult teams 2020-21
+title: Adult teams
 ---
 
 <article id="main">
     <header class="special container">
         <span class="icon fa-futbol-o"></span>
-        <h2>Adult teams</h2>
+        <h2>Adult teams 2020/21</h2>
     </header>
     <section class="wrapper style4 container">
         <ul class="posts">
