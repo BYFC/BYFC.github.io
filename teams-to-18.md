@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teams &mdash; secondary school age
+title: Teams 2020/21 &mdash; secondary school age
 ---
 
 <article id="main">
@@ -13,6 +13,7 @@ title: Teams &mdash; secondary school age
           {% for team in site.data.teams %}
           {% if team.manager != nil %}
 	  {% assign thisage = team.agegrp | to_integer %}{% if thisage > 11 and thisage < 19 %}
+          <div id="{{ team.name | slugify: "ascii" }}"><div>
             <li class="wrapper style1">
               <h2>{{ team.name }}</h2>
 <p><strong>Manager:</strong> {{ team.manager }} <br />

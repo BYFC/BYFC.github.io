@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adult teams
+title: Adult teams 2020/21
 ---
 
 <article id="main">
