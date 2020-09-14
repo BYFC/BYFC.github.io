@@ -16,7 +16,6 @@ title: Teams &mdash; secondary school age
             <li class="wrapper style1">
               <h2>{{ team.name }}</h2>
 <p><strong>Manager:</strong> {{ team.manager }} <br />
-<strong>Home ground:</strong> {{ team.homeground }} ({{ team.day }} {{ team.time }}) <br />
 {% if team.format %}<strong>Format:</strong> {{ team.format }} <br /> {% endif %}
 {% if team.League != nil %}<strong>League:</strong> {{ team.League }} <br /> {% endif %}
 {% if team.results %}<a href="{{ team.results }}"><strong>Results</strong></a><br /> {% endif %}
