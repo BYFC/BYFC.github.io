@@ -99,3 +99,16 @@ website.
 * Call: 0800 107 0160 
 * Website: [Release the pressure](https://www.kent.gov.uk/social-care-and-health/health/release-the-pressure)
 
+### The freephone, 24-hour National Domestic Abuse Helpline
+
+Are you experiencing domestic abuse? 
+
+* Website: [https://www.nationaldahelpline.org.uk/](https://www.nationaldahelpline.org.uk/)
+* Freephone: 0808 2000 247
+
+
+### Galop, the LGBT+ anti-violence charity
+
+* Webiste: [http://www.galop.org.uk/domesticabuse/](http://www.galop.org.uk/domesticabuse/)
+* Phone: 0800 999 5428
+* Email: help@galop.org.uk
