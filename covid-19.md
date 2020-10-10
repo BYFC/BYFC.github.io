@@ -12,6 +12,7 @@ As you are, probably, aware the Government recently announced a further relaxati
 * [Player guide - infographic](https://drive.google.com/file/d/1nZ1scj63HOFWr_gghTDrSjRf62Mq5jxm/view?usp=sharing)
 * [Coach guide - infographic](https://drive.google.com/file/d/1ihVMfXF4qCaV51jzFc6PJkqhs7gPoQIx/view?usp=sharing)
 * [QR codes for pitches used by BYFC](https://drive.google.com/drive/folders/1-UlFn5mXsAXUFvN5al0OFvSfKtyr1jkh?usp=sharing)
+* [COVID-19 Safety Briefing](https://drive.google.com/file/d/1I_gagU-S30b1d7TtGZxFmvMELLoi-RAS/view?usp=sharing)
 
 Social distancing is still to be observed during times when the players are not training or playing. Parents/Guardians of primary school-aged children must be present. Contact details of those present at the sessions must be taken in order to provide track and trace details should you be made aware of anyone testing positive or showing symptoms of COVID-19. In addition, managers should print and bring along NHS QR codes for the appropriate venue (see last bullet above) so that parents can check-in at the venue.
 
