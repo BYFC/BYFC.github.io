@@ -18,6 +18,25 @@ welfare officer by email:
 
 Alternatively you might want to contact one of the organisations listed below.
 
+### Young minds
+
+Young Minds provides young people with tools to look after their mental health.
+They empower adults to be the best support they can be to the young people in
+their lives. And they give young people the space and confidence to get their
+voices heard and change the world we live in.
+
+* If you need urgent help text YM to 85258
+* Website: [https://youngminds.org.uk/](https://youngminds.org.uk/)
+
+
+If you are a parent or carer worried about your child, speak to their experts at
+the Parents Helpline:
+
+* Call for free on 0808 802 5544 (9:30am - 4pm, Mon - Fri)
+* Email using their [Parents Helpline contact form.](https://youngminds.org.uk/contact-us/parents-helpline-enquiries/)
+* Use their live [Parents webchat service](https://youngminds.org.uk/find-help/for-parents/parents-helpline/#parents-webchat) (9:30am - 4pm, Mon - Fri)
+
+
 ### NSPCC
 
 If you're worried about a child, even if you're unsure, contact NSPCC's professional counsellors 24/7 for help, advice and support. 
