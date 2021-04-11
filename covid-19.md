@@ -21,7 +21,7 @@ on the safe return to fixtures and tournaments.
 * [COVID-19 Safety Briefing](https://drive.google.com/file/d/1I_gagU-S30b1d7TtGZxFmvMELLoi-RAS/view?usp=sharing)
 
 Social distancing is still to be observed during times when the players are not
-training or playing. **One*** Parent/Guardian of primary school-aged children
+training or playing. **One** Parent/Guardian of primary school-aged children
 must be present. Contact details of those present at the sessions must be taken
 in order to provide track and trace details should you be made aware of anyone
 testing positive or showing symptoms of COVID-19. In addition, managers should
