@@ -45,7 +45,8 @@ and I look forward to seeing you all back on a football pitch, in Barming,
 sometime very soon.
 
 Warren Lindley, Club Chairman
-Original: 27/07/2020
-First updated 26/09/2020
-Current version: 10/04/2021
+
+* Original: 27/07/2020
+* First updated 26/09/2020
+* Current version: 10/04/2021
 
