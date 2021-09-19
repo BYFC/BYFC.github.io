@@ -6,7 +6,7 @@ title: Teams &mdash; primary school age
 <article id="main">
     <header class="special container">
         <span class="icon fa-futbol-o"></span>
-        <h2>Teams &mdash; primary school age 2020/21</h2>
+        <h2>Teams &mdash; primary school age 2021/22</h2>
     </header>
     <section class="wrapper style4 container">
         <ul class="posts">
