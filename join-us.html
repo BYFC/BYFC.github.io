@@ -20,36 +20,11 @@ th {
 
 <table>
 <tr><th>Team</th><th>Availability</th></tr>
-<tr><td>Buds</td><td>Recruiting</td></tr>
-<tr><td>U7 Youth</td><td>Full </td></tr>
-<tr><td>U7 Blues</td><td>Full </td></tr>
-<tr><td>U7 Colts</td><td>Full</td></tr>
-<tr><td>U8 Youth</td><td>Full</td></tr>
-<tr><td>U8 Blues</td><td>Full</td></tr>
-<tr><td>U8 Colts</td><td>Full</td></tr>
-<tr><td>U9 Youth</td><td>Full</td></tr>
-<tr><td>U9 Colts</td><td>Full </td></tr>
-<tr><td>U10 Youth</td><td>Full - Experienced players only</td></tr>
-<tr><td>U10 Blues</td><td>Full</td></tr>
-<tr><td>U11 Youth</td><td>Recruiting </td></tr>
-<tr><td>U11 Blues</td><td>Full</td></tr>
-<tr><td>U11 Colts</td><td>Full</td></tr>
-<tr><td>U12 Youth</td><td>Recruiting</td></tr>
-<tr><td>U12 Blues</td><td>Full </td></tr>
-<tr><td>U12 Girls</td><td>Recruiting</td></tr>
-<tr><td>U13 Girls</td><td>Recruiting </td></tr>
-<tr><td>U14 Blues</td><td>Full - Training option only </td></tr>
-<tr><td>U14 Colts</td><td>Recruiting </td></tr>
-<tr><td>U15 Youth</td><td>Experienced players, in particular striker required</td></tr>
-<tr><td>U15 Blues</td><td>Full</td></tr>
-<tr><td>U18 Youth</td><td>Full</td></tr>
-<tr><td>U18 Colts</td><td>Full</td></tr>
-<tr><td>Mens Youth</td><td>Full - Training option only </td></tr>
-<tr><td>Mens Blues</td><td>Full</td></tr>
-<tr><td>Ladies</td><td>Recruiting </td></tr>
-<tr><td>Vets</td><td>Need experienced players only</td></tr>
-<tr><td>Girls Age 5-11</td><td>Training only</td></tr>
-</table>
+{% for team in site.data.teams %}
+{% if team.manager != nil %}
+<tr><td>{{ team.name }}</td><td>{{ team.availability }}</td></tr>
+{% endif %}
+{% endfor %}
 
 <p>Click on the next button in the form below to begin.</p>
 
