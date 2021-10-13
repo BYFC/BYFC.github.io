@@ -7,7 +7,7 @@ We would like to express our thanks to all of the companies listed below that ar
 
 {% for team in site.data.teams %}
 {% if team.manager != nil %}
-## {{ team.name }}
+<h2 id="{{ team.shortname }}">{{ team.name }}</h2>
 
 {% if team.sponsor != nil %}
 <strong>Sponsor: </strong><a href="{{ team.sponsorURL }}">{{ team.sponsor }}</a>

@@ -14,7 +14,7 @@ title: Teams &mdash; secondary school age
           {% if team.manager != nil %}
 	  {% assign thisage = team.agegrp | to_integer %}{% if thisage > 11 and thisage < 19 %}
             <li class="wrapper style1">
-              <h2>{{ team.name }}</h2>
+              <h2 id="{{ team.shortname }}">{{ team.name }}</h2>
 <p><strong>Manager:</strong> {{ team.manager }} <br />
 {% if team.format %}<strong>Format:</strong> {{ team.format }} <br /> {% endif %}
 {% if team.League != nil %}<strong>League:</strong> {{ team.League }} <br /> {% endif %}
