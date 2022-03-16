@@ -83,12 +83,8 @@ Come for a try-out and if you like it we will ask you to register and pay
 monthly subs.
 
 The cost is £15 per month and we prefer payment to be made by standing order
-from September (or whenever starting) to July to the account below:
-
-Sort code: 09-01-27<br />
-Account no: 43348295<br />
-Account name: Barming Youth FC<br />
-Reference: Name of child, e.g. "John Smith"
+from September (or whenever starting) to July to the club account. Details will
+be provided to you during the training session.
 
 
 If you have any questions please speak to the coaches or Kelly.
