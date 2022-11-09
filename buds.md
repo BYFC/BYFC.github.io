@@ -67,16 +67,6 @@ Occasionally we post photos so if you are not happy for consent of photos then
 please let us know. The group is a closed group so only those with links to
 Barming Youth FC will see the posts.
 
-### COVID-19
-
-COVID restrictions have been lifted by the government, however, we continue to
-maintain some measures to reduce the risk of transmission.
-
-We place markers out to create a "home base" for each child. This is where they
-should place their water bottle and should wait in this area for training to
-start and return to it during brief breaks to get a drink. We also have PPE with
-us in the extremely unlikely case that we need to apply first aid. 
-
 ### Payment
 
 Come for a try-out and if you like it we will ask you to register and pay
