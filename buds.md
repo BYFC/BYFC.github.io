@@ -82,7 +82,7 @@ us in the extremely unlikely case that we need to apply first aid.
 Come for a try-out and if you like it we will ask you to register and pay
 monthly subs.
 
-The cost is £15 per month and we prefer payment to be made by standing order
+The cost is £16 per month and payment is made by direct debit
 from September (or whenever starting) to July to the club account. Details will
 be provided to you during the training session.
 
