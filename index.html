@@ -55,7 +55,7 @@ Barming Youth FC was founded in 1980 with just one team. The club has grown exte
 					<section class="wrapper style1 container special">
 						<div class="row">
 					          {% for post in site.posts limit:3 %}
-							<div class="4u">
+							  <div class="col-4 col-12-narrower">
 								<section>
 									<span class="icon featured fa-newspaper-o"></span>
 									<header>
@@ -86,8 +86,7 @@ Barming Youth FC was founded in 1980 with just one team. The club has grown exte
 						
 						<div class="row">
 						{% for event in site.events reversed limit:4 %}
-							<div class="6u">
-							
+						<div class="col-6 col-12-narrower">
 								<section>
 									<a href="#" class="image featured"><img src="{{ event.image }}" alt="{{ event.alt }}" /></a>
 									<header>
