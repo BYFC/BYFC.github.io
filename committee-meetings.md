@@ -16,11 +16,11 @@ title: Committee meeting documents
         <h3><a id="{{ docsection.title | slugify }}">{{ docsection.title }}</a></h3>
         <ul>
           {% for doc in site.data.committee %}
-            <li>
 		{% if doc.group == docsection.section %}
+            <li>
 		<a href="{{ doc.link }}">{{ doc.description }} ({{ doc.filetype }})</a> <br />
-		{% endif %}
             </li>
+		{% endif %}
           {% endfor %}
         </ul>
         {% endfor %}
